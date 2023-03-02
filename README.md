@@ -31,10 +31,10 @@
  ## 
  
 <div style="display:inline_block">
-<a href="https://github.com/danieldevzx/github-readme-stats">
+<a href="https://github.com/danieldevzx">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldevzx&hide=stars&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/danieldevzx/github-readme-stats">
+<a href="https://github.com/danieldevzx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldevzx&theme=merko&layout=compact" />
 </a>
 
