@@ -1,7 +1,5 @@
-
-
 <div>
-  <img style="border-radius: 50%;"  align="right" alt="Daniel-pic" height="150" src="https://avatars.githubusercontent.com/u/86479460?s=400&u=8ebf61d03532bdbe18d807332901ad8201bc9099&v=4">
+  <img style="border-radius: 50%;"  align="right" alt="Daniel-pic" height="150" src="https://user-images.githubusercontent.com/86479460/222490024-992c8c39-4986-45fc-85e5-6c45ccd80e81.png">
 <h2> Oi, me chamo Daniel 👽</h2>
 
   <div>
