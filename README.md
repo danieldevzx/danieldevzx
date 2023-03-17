@@ -6,14 +6,14 @@
     <ul>
       <li>🌱 Estudando:
         <ul>
-          <li>Django</li>
-          <li>JavaFX</li>
+          <li>Kotlin</li>
+          <li>Java</li>
           <li>PHP</li>
         </ul>
       </li>
       <li>🔮 Trabalhando com projetos pessoais:
         <ul>
-          <li>Java e biblioteca JavaFX</li>
+          <li>Kotlin</li>
           <li>C++</li>
           <li>Python</li>
           <li>Unity</li>
