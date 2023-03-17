@@ -6,7 +6,7 @@
     <ul>
       <li>🌱 Estudando:
         <ul>
-          <li>Kotlin</li>
+          <li>Kotlin e Java</li>
           <li>Java</li>
           <li>PHP</li>
         </ul>
