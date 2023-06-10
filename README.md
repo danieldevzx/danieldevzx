@@ -6,15 +6,12 @@
     <ul>
       <li>🌱 Estudando:
         <ul>
-          <li>Kotlin e Java</li>
           <li>Java</li>
           <li>PHP</li>
         </ul>
       </li>
       <li>🔮 Trabalhando com projetos pessoais:
         <ul>
-          <li>Kotlin</li>
-          <li>C++</li>
           <li>Python</li>
           <li>Unity</li>
         </ul>
