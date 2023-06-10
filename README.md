@@ -17,7 +17,6 @@
         </ul>
       </li>
       <li>📫 Contato: danielmartinsdev@gmail.com </li>
-      <li>😄 Pronomes: ele/dele </li>
       <li>💻 Usuário: Linux <a href="https://github.com/void-linux">(Void Linux) </a></li>
     </ul>
   </div>
