@@ -7,13 +7,13 @@
       <li>🌱 Estudando:
         <ul>
           <li>Java</li>
-          <li>PHP</li>
+          <li>C e C++</li>
         </ul>
       </li>
       <li>🔮 Trabalhando com projetos pessoais:
         <ul>
-          <li>Python</li>
-          <li>Unity</li>
+          <li>Java</li>
+          <li>Godot</li>
         </ul>
       </li>
       <li>📫 Contato: danielmartinsdev@gmail.com </li>
