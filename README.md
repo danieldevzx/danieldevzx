@@ -17,7 +17,7 @@
         </ul>
       </li>
       <li>📫 Contato: danielmartinsdev@gmail.com </li>
-      <li>💻 Usuário: Linux <a href="https://github.com/void-linux">(Void Linux) </a></li>
+      <li>💻 Usuário: Linux <a href="https://fedoraproject.org/">(Fedora) </a></li>
     </ul>
   </div>
 </div>
