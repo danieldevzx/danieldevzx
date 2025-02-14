@@ -22,10 +22,15 @@
 - **CEFET-MG** – IT Technician
 - **UFV** – Computer Science (Ongoing)
 
+<div style="display: inline-block;">
+  <img height="500"align="right"src="https://github.com/user-attachments/assets/9cce5be3-2a8b-4d31-b96d-bb36eea940f1"></img>
+</div>
+
 #### 🌱 Currently Studying
 - **Languages:** Java, C, C++
 - **Framework:** NestJS
 - **Systems:** Linux (Advanced Concepts)
+
 
 #### 💻 Personal Projects
 - Applications in **Java**
@@ -42,6 +47,9 @@
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
 </div>
 
+
+
+
 #### 💪 Top Skills
 <div style="display: inline-block;">
   <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
@@ -49,22 +57,8 @@
   <img alt="NestJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS">
   <img alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux">
   <img alt="Backend" height="40" width="50" src="https://img.icons8.com/color/48/000000/api.png" title="Backend Development">
+
 </div>
 
 ---
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/danieldevzx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldevzx&theme=dark&background=0D1117&ring=A3B4BF&fire=A3B4BF&currStreakNum=A3B4BF&currStreakLabel=A3B4BF&sideNums=A3B4BF&sideLabels=A3B4BF" alt="Daniel's GitHub Streak" />
-  </a>
-</div>
-
----
-
-<!-- Seção dos displays do GitHub movida para o final -->
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/danieldevzx">
-    <img src="https://github-profile-trophy.vercel.app/?username=danieldevzx&theme=radical" alt="Daniel's GitHub Trophy" />
-  </a>
-</div>
 
