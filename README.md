@@ -6,15 +6,15 @@
   <h3 style="color:#A3B4BF;">Software Developer | Computer Science Student</h3>
 </div>
 
-<!-- Seção de Contato (mais visível no topo) -->
+<!-- Seção de Contato -->
 <div align="center" style="margin-top: 10px;">
-  <a href="mailto:danielmartinsdev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/danieldevzx/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <p><strong>Email:</strong> danielmartinsdev@gmail.com | <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/danieldevzx/" target="_blank">linkedin.com/in/danieldevzx</a></p>
 </div>
+
+---
+
+#### 🏆 About Me
+Passionate about problem-solving and software development, I enjoy working on projects that challenge my logical thinking and improve my coding skills. My main interests lie in **backend development**, **algorithms**, and **systems programming**. I'm always eager to explore new technologies, optimize solutions, and collaborate on meaningful projects.
 
 ---
 
@@ -23,18 +23,25 @@
 - **UFV** – Computer Science (Ongoing)
 
 <div style="display: inline-block;">
-  <img height="500"align="right"src="https://github.com/user-attachments/assets/9cce5be3-2a8b-4d31-b96d-bb36eea940f1"></img>
+  <img height="500" align="right" src="https://github.com/user-attachments/assets/9cce5be3-2a8b-4d31-b96d-bb36eea940f1"></img>
 </div>
+
+---
 
 #### 🌱 Currently Studying
 - **Languages:** Java, C, C++
 - **Framework:** NestJS
 - **Systems:** Linux (Advanced Concepts)
 
+---
+
 
 #### 💻 Personal Projects
 - Applications in **Java**
 - Backend development with **NestJS**
+
+---
+
 
 #### 🛠 Technologies & Tools
 <div style="display: inline-block;">
@@ -47,7 +54,7 @@
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
 </div>
 
-
+---
 
 
 #### 💪 Top Skills
@@ -57,8 +64,6 @@
   <img alt="NestJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS">
   <img alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux">
   <img alt="Backend" height="40" width="50" src="https://img.icons8.com/color/48/000000/api.png" title="Backend Development">
-
 </div>
 
----
-
+--- 
