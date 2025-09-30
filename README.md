@@ -14,7 +14,7 @@
 ---
 
 #### 🏆 About Me
-Passionate about problem-solving and software development, I enjoy working on projects that challenge my logical thinking and improve my coding skills. My main interests lie in **backend development**, **algorithms**, and **systems programming**. I'm always eager to explore new technologies, optimize solutions, and collaborate on meaningful projects.
+I'm a passionate software developer who enjoys solving complex problems and building efficient, scalable systems. My main interests are in **backend development, algorithms, systems programming, and data science**
 <img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif"></img>
 
 ---
