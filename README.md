@@ -14,20 +14,20 @@
   </p>
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 I'm a software developer with 2 years of production experience building APIs and fullstack applications, and an applied AI researcher focused on Small Language Models (SLMs) and natural language processing.
 
 At myMobiConf (NESPeD / UFV), I serve as Backend Tech Lead & Fullstack Co-Lead, helping build an event management platform used at five scientific and educational events — WebMedia, SBBD, BRACIS, WIT, and Feira Norte do Estudante — with up to 1,950 users in a single event.
 
 My main interests include backend architecture, distributed systems, AI/NLP, and data engineering.
-🚀 What I'm Working On
+## 🚀 What I'm Working On
 Area	Focus
 AI & NLP — Undergraduate Thesis	Automated summarization of event feedback with SLMs, Python/PyTorch, and Map-Reduce pipelines; evaluation using ROUGE-L, BERTScore, and LLM-as-a-Judge.
 Backend & Fullstack	REST APIs and production applications with NestJS, TypeORM, PostgreSQL, Redis, Next.js, and React.
 Systems & DevOps	Linux (Fedora / Hyprland), shell scripting, Docker, GitHub Actions (CI/CD), and AWS.
 
 
-💼 Experience & Projects
+## 💼 Experience & Projects
 myMobiConf — Backend Tech Lead & Fullstack Co-Lead
 NESPeD · Universidade Federal de Viçosa
 - Lead backend development within a 4-developer team, contributing to code reviews and technical decisions.
@@ -38,11 +38,12 @@ SLM Comment Summarization Benchmark — AI/NLP Research
 - Research automated event-comment summarization with Small Language Models.
 - Compare three SLM architectures against larger models, including ChatGPT, Gemini, Claude, and DeepSeek.
 - Assess output quality across five dimensions, alongside automatic metrics such as ROUGE-L and BERTScore.
-🏆 Highlights
+
+## 🏆 Highlights
 - 🎤 Workshop Instructor — Building REST APIs with NestJS, XV SECOM UFV (2026).
 - 🏅 5th place out of 60 teams — SYDLE/LEVTY Programming Marathon, XV SECOM UFV (2026).
 - 🥇 1st place — Ideathon FATOR S (SEBRAE / MHARK — CEFET-MG).
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Main tools
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,nextjs,react,python,pytorch,postgres,redis,docker,linux,git&perline=12" alt="TypeScript, NestJS, Node.js, Next.js, React, Python, PyTorch, PostgreSQL, Redis, Docker, Linux and Git" />
